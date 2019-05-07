@@ -1,4 +1,4 @@
-# ![UtubeScrappy Logo](/public/assets/images/UtubeScrappy.png)
+# ![UtubeScrappy Logo](/public/assets/images/UtubeScrappy.jpg)
 # UtubeScrappy
 A webapp that scrapes news data from [YouTube](https://www.youtube.com/) and allows users to comment about the videos. Can also delete comments.
 
