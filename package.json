@@ -1,0 +1,26 @@
+{
+  "name": "utubescrappy",
+  "version": "1.0.0",
+  "description": "A scraper that uses node.js, mongoose, and handlebars to scrape data from YouTube and allow users to comment on it.",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "moment": "^2.24.0",
+    "mongoose": "^5.5.5",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "bluezam",
+  "license": "ISC"
+}
