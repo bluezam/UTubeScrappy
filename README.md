@@ -1,6 +1,9 @@
 # ![UtubeScrappy Logo](/public/assets/images/UtubeScrappy.jpg)
 # UtubeScrappy
-A webapp that scrapes news data from [YouTube](https://www.youtube.com/) and allows users to comment about the videos. Can also delete comments.
+A webapp that scrapes news data from YouTube and allows users to comment about the videos. Can also delete comments.
+
+## Deployed on Heroku
+Click [Here](https://rocky-cliffs-44481.herokuapp.com/) To Demo!
 
 ## Node Packages Used
 The app uses `express` , `mongoose` , `MongoDB` , `handlebars` , `materialize` ,  `jQuery` , `AJAX` , `request` , `cheerio` node packages.
